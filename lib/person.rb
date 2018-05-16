@@ -8,7 +8,7 @@ class Person
     @name
   end
 
-  def breed=(breed)
+  def job=(breed)
     @breed = breed
   end
 
